@@ -1,0 +1,13 @@
+Language: Cpp
+BasedOnStyle: Microsoft
+
+UseTab: Always
+TabWidth: 4
+AccessModifierOffset: -4
+AlwaysBreakTemplateDeclarations: Yes
+BreakConstructorInitializers: BeforeComma
+SpaceAfterTemplateKeyword: false
+PointerAlignment: Left
+FixNamespaceComments: true
+AlignTrailingComments: true
+AllowShortFunctionsOnASingleLine: InlineOnly
